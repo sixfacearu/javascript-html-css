@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<button onclick=myvar="setInterval(display_ct, 1000);" >submit</button>
+<button onclick="clearTimeout(myVar)">Stop it</button>
+<p id="demo"></p>
+</body>
+<script>
+function display_ct() {
+var s=new Date();
+var a=s.getSeconds();
+document.getElementById("demo").innerHTML=a;
+}
+
+</script>
+</html>
