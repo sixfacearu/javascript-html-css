@@ -1,0 +1,30 @@
+
+<link href="style.css" rel="stylesheet">
+<div class="wrapper">
+  <h1>Contract Address</h1>
+  <form class="form" method="post" action="yourpage.html">
+<input type="text" class="name" >
+</div>
+ <div class="wap">
+<h1>Token Name</h1>
+    <input type="text" class="email">
+<h1>Token Symbol</h1>
+    <input type="text" class="name"> 
+ </div>
+
+<div class="waps">
+
+<h1>Token Decimal</h1>
+    <input type="text" class="email">
+<h1>TotalSupply</h1>
+    <input type="text" class="email">
+</div>
+ 
+    <input type="submit" class="submit" value="Register">
+  </form>
+
+   
+  
+
+
+     
